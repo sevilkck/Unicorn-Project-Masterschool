@@ -3,11 +3,12 @@
 
 Prepared for: Master School Unicorn Project
 
-Team 2:
-Tehmina Aziz
-Sevil Kücük
-Rutvik Pimpalkar
-Hande Gabrali-Knobloch
+**Team**
+
+- Tehmina Aziz
+- Sevil Kücük
+- Rutvik Pimpalkar
+- Hande Gabrali-Knobloch
 
 
 Date: July 25, 2025
