@@ -10,6 +10,19 @@ Prepared for: Master School Unicorn Project
 - Rutvik Pimpalkar
 - Hande Gabrali-Knobloch
 
+# References
+
+Tableau Link: 
+
+https://public.tableau.com/app/profile/sevil.k.c.k/viz/UnicornCompanyBusinessInsightsPerformanceTrends/UnicornProject
+
+Google Sheets Link:
+
+https://docs.google.com/spreadsheets/d/1A0pxUhfjoE3QrVV9f47qjHR61X-crIvakbLTxAq4tKQ/edit?gid=1868140062#gid=1868140062 
+
+YouTube Presentation Link
+
+https://youtu.be/pqJtQQNRlN0
 
 Date: July 25, 2025
 
@@ -127,15 +140,3 @@ Tailor marketing messages and product offerings specifically for the dominant Co
 - **Deepen Profitability Drivers Analysis:**
 Move beyond simple correlation for profit analysis. Implement multivariate regression or machine learning models to identify the key drivers of profit (e.g., product features, customer demographics, sales channel, operational costs) and quantify their impact. This will provide a more robust understanding of profitability beyond just discount.
 Utilize insights from advanced profitability models to inform pricing, product development, and promotional strategies, ensuring that marketing efforts are aligned with maximizing profitable growth rather than just sales volume.
-
-
-# References
-
-Tableau Link: 
-
-https://public.tableau.com/app/profile/sevil.k.c.k/viz/UnicornCompanyBusinessInsightsPerformanceTrends/UnicornProject
-
-Google Sheets Link:
-
-https://docs.google.com/spreadsheets/d/1A0pxUhfjoE3QrVV9f47qjHR61X-crIvakbLTxAq4tKQ/edit?gid=1868140062#gid=1868140062 
-
