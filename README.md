@@ -2,6 +2,7 @@
 
 
 Prepared for: Master School Unicorn Project
+Date: July 25, 2025
 
 **Team**
 
@@ -24,7 +25,6 @@ YouTube Presentation Link
 
 https://youtu.be/pqJtQQNRlN0
 
-Date: July 25, 2025
 
 
 # 1. Executive Summary
