@@ -20,7 +20,7 @@ https://public.tableau.com/app/profile/sevil.k.c.k/viz/UnicornCompanyBusinessIns
 
 Google Sheets Link:
 
-https://docs.google.com/spreadsheets/d/1A0pxUhfjoE3QrVV9f47qjHR61X-crIvakbLTxAq4tKQ/edit?gid=1868140062#gid=1868140062 
+https://docs.google.com/spreadsheets/d/1Ra4xGaSYqUkqzDBQYzzBtFub6Ia7IYmqrUPYdlREBGE/edit?gid=1868140062#gid=1868140062
 
 YouTube Presentation Link
 
