@@ -14,6 +14,10 @@ Date: July 25, 2025
 
 # References
 
+PostgreSQL dataset:
+
+postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn?sslmode=require
+
 Tableau Link: 
 
 https://public.tableau.com/app/profile/sevil.k.c.k/viz/UnicornCompanyBusinessInsightsPerformanceTrends/UnicornProject
