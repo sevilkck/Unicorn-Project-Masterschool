@@ -14,7 +14,7 @@ Date: July 25, 2025
 
 # References
 
-### PostgreSQL dataset:
+PostgreSQL dataset:
 
 `postgresql://Test:bQNxVzJL4g6u@ep-noisy-flower-846766-pooler.us-east-2.aws.neon.tech/Unicorn`
 
